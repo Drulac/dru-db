@@ -1,0 +1,15 @@
+{
+  "name": "dru-db",
+  "version": "0.0.1",
+  "description": "drudru JS middleware used to manage databases",
+  "main": "db.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Drulac <dev.drulac@gmail.com>",
+  "license": "GPL-3.0",
+  "repository": {
+    "url": "https://github.com/Drulac/dru-db",
+    "type": "git"
+  }
+}
